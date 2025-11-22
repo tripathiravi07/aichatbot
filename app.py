@@ -2,7 +2,8 @@
 import os
 from dotenv import load_dotenv
 load_dotenv()
-os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
+#uncomment below line if you want to run this code inside your local
+#os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
 #Import Langchain and streamlit components
 import streamlit as st

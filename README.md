@@ -37,8 +37,10 @@ Ask any DevOps-related question (CI/CD, Kubernetes, Terraform, cloud, monitoring
 ├── .env               # Optional: store GROQ_API_KEY here
 ├── requirements.txt   # Python dependencies
 └── README.md          # This file
+```
 ---
 🛠️ Installation & Running Instructions
+---
 
 ✅ Step 1 — Install All Dependencies
 ```
